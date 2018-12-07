@@ -1,4 +1,4 @@
-package com.mractiveiddev.myapplication;
+package paket2;
 
 /**
  * Created by vickydwikandia on 07/12/18.
